@@ -1,0 +1,6 @@
+.godot/
+build/
+*.tpz
+*.apk
+*.idsig
+*.aab

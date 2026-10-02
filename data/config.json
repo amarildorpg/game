@@ -1,0 +1,23 @@
+{
+  "start_power": 1,
+  "start_lives": 3,
+  "max_lives": 5,
+  "fatigue_enabled": true,
+  "items": {
+    "plus1": {"label": "POÇÃO", "power": 1},
+    "sword": {"label": "ESPADA", "power": 3},
+    "helmet": {"label": "CAPACETE", "power": 2},
+    "crown": {"label": "COROA", "power": 2},
+    "heart": {"label": "+VIDA", "lives": 1},
+    "double": {"label": "x2", "multiply": 2},
+    "axe": {"label": "MACHADO", "power": 4},
+    "spear": {"label": "LANÇA", "power": 5},
+    "hammer": {"label": "MARTELO", "power": 6},
+    "shield": {"label": "ESCUDO", "power": 3},
+    "armor": {"label": "ARMADURA", "power": 5},
+    "cape": {"label": "CAPA", "power": 3},
+    "boots": {"label": "BOTAS", "power": 2},
+    "amulet": {"label": "AMULETO", "power": 4},
+    "staff": {"label": "CAJADO", "power": 6}
+  }
+}
